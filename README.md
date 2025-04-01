@@ -21,7 +21,7 @@ A **stylish, pink-themed** calculator inspired by the **iPhone** design! 🧡 Bu
 
 ## 🖼️ **Preview**
 
-_![Calculator Screenshot]()
+_![Calculator Screenshot](https://github.com/SheilaNgetich/SimpleJavaCalculator/blob/main/SimpleCalculator.png)
 _
 
 ---
